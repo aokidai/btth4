@@ -1,0 +1,9 @@
+E:\Aoki\btth4\BTTH4\BTTH4\obj\x86\Debug\BTTH4.Form1.resources
+E:\Aoki\btth4\BTTH4\BTTH4\obj\x86\Debug\BTTH4.Properties.Resources.resources
+E:\Aoki\btth4\BTTH4\BTTH4\bin\Debug\BTTH4.exe
+E:\Aoki\btth4\BTTH4\BTTH4\bin\Debug\BTTH4.pdb
+E:\Aoki\btth4\BTTH4\BTTH4\obj\x86\Debug\BTTH4.exe
+E:\Aoki\btth4\BTTH4\BTTH4\obj\x86\Debug\BTTH4.pdb
+E:\Aoki\btth4\BTTH4\BTTH4\obj\x86\Debug\BTTH4.dangnhap.resources
+E:\Aoki\btth4\BTTH4\BTTH4\obj\x86\Debug\BTTH4.doimk.resources
+E:\Aoki\btth4\BTTH4\BTTH4\obj\x86\Debug\BTTH4.csproj.GenerateResource.Cache
